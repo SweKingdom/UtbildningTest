@@ -2,4 +2,8 @@
 
 Enumerable.Range(1, 5)
     .ToList()
-    .ForEach(x => Console.WriteLine("Hello, PC!"));
+    .ForEach(x => Console.WriteLine("Hello, World!"));
+
+Enumerable.Range(1, 5)
+    .ToList()
+    .ForEach(x => Console.WriteLine("Hell
